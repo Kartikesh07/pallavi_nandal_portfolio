@@ -57,7 +57,7 @@ const About = () => {
                     </motion.div>
 
                     {/* Right Column: The Journey (takes 2 columns) */}
-                    <motion.div 
+                    {/* <motion.div 
                         className="md:col-span-2 text-left"
                         style={{ y: rightTextY }}
                     >
@@ -65,7 +65,7 @@ const About = () => {
                         <p className="text-gray-600 leading-relaxed">
                             A graduate of NIFT, my work has been featured in leading publications and worn by icons of cinema, all while honoring the artisans behind the craft.
                         </p>
-                    </motion.div>
+                    </motion.div> */}
 
                 </div>
             </div>
