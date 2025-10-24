@@ -40,7 +40,7 @@ const About = () => {
                     >
                         <h3 style={{ fontFamily: "'Playfair Display', serif" }} className="text-3xl font-bold text-gray-800 mb-4">My Philosophy</h3>
                         <p className="text-gray-600 leading-relaxed">
-                            I believe fashion is a conversation between eras. My design philosophy is to weave India's rich artisanal legacy into clean, contemporary silhouettes.
+                            I believe styling is about creating powerful visual stories. My approach is to highlight individuality, enhance brand narratives, and curate looks that inspire. Whether for editorials, ad campaigns, weddings, or personal styling, I weave together creativity, culture, and modern aesthetics to deliver unforgettable style experiences.
                         </p>
                     </motion.div>
 
